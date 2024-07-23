@@ -91,12 +91,12 @@ html{
     text-decoration: none;
     background-color: #271515;
     color: #940253;
-    border: 1px solid #940253;
+    border: 2px solid #940253;
     border-radius: 50%;
     width: 40px;
     height: 40px;
     line-height: 40px;
-    margin: 0 5px;
+    margin: 0 10px;
     transition: .3s;
 }
 .inicio .contenido-seccion .info .redes a:hover{
